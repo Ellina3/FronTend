@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.header{
+background: blue;
+height: 20vh;
+}
+.content {
+    width: 60%;
+    height: 70vh;
+    margin: 0 auto;
+    }
+
+.content-head{
+    height:20vh;
+    background: red;
+}
+
+.col{
+    width: 50%;
+    height: 50vh;
+    float: left;
+    background-color: aqua;
+}
+
+.col:last-child{
+    background-color:green;
+}
+.footer {
+    height: 20vh;
+    background: blueviolet 
+}
