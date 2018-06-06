@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700i');
+    
 *{
     margin: 0;
     padding:0;
+}
+body{
+    background: linear-gradient(to left bottom, #8debf1, #ce17c2);
+    font-size: 130%; 
 }
 .white{
 background: white;
@@ -26,7 +32,7 @@ border-bottom: none;
 }
 h1 {
     color: black;
-    font-style: Helvetica;
+    font-family: Montserrat;
     font-size: 300%;
     text-align: center;
 }
